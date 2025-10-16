@@ -15,7 +15,7 @@
 
 ## About Me
 
-Experienced Quality Engineer leading quality assurance for technology projects across diverse industries and global technology sectors.
+Experienced Quality Engineer, leading quality assurance for technology projects across diverse industries and global technology sectors.
 <br />
 #### View my online resume: [badj.github.io/online-resume](https://badj.github.io/online-resume/)
 <hr />
