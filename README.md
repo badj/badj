@@ -11,7 +11,7 @@
 <!-- <img align="middle" height="100" width="100" src="https://raw.githubusercontent.com/badj/online-resume/refs/heads/main/images/header_image.png">-->
 <!-- TODO: Use headshot at some point -->
 
-# Jacob Badenhorst • Quality Engineer • APAC / New Zealand / Australia
+# Jacob Badenhorst • Quality Engineer • APAC / NZ / AU
 
 ## About Me
 
