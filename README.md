@@ -77,6 +77,6 @@ Experienced Quality Engineer leading quality assurance for technology projects a
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badj&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badj&layout=compact&langs_count=6&theme=transparent)
 
 <hr />
