@@ -41,7 +41,6 @@ Experienced Quality Engineer leading quality assurance for technology projects a
 <img align="center" alt="Rafa-redhat" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redhat/redhat-original-wordmark.svg">
 <img align="center" alt="Rafa-gradle" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gradle/gradle-original-wordmark.svg">
 <img align="center" alt="Rafa-maven" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original-wordmark.svg">
-<img align="center" alt="Rafa-npm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original-wordmark.svg">
 </p>
 <p align="left">
 <img align="center" alt="Rafa-gitlab" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original-wordmark.svg">
@@ -71,6 +70,7 @@ Experienced Quality Engineer leading quality assurance for technology projects a
 <img align="center" alt="Rafa-intellij" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg">
 <img align="center" alt="Rafa-concordion" height="65" width="90" src="https://concordion.org/img/concordion-logo-web-green.png">
 <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+<img align="center" alt="Rafa-npm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original-wordmark.svg">
 <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-cucumber" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cucumber/cucumber-plain-wordmark.svg">
 </p>
