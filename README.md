@@ -30,8 +30,6 @@ As a Quality Engineer, I lead quality assurance initiatives for technology proje
 <img align="center" alt="Rafa-redhat" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redhat/redhat-original-wordmark.svg">
 <img align="center" alt="Rafa-gradle" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gradle/gradle-original-wordmark.svg">
 <img align="center" alt="Rafa-maven" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original-wordmark.svg">
-</p>
-<p align="left">
 <img align="center" alt="Rafa-gitlab" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original-wordmark.svg">
 <img align="center" alt="Rafa-postman" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original-wordmark.svg">
 <img align="center" alt="Rafa-groovy" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/groovy/groovy-original.svg">
@@ -44,8 +42,6 @@ As a Quality Engineer, I lead quality assurance initiatives for technology proje
 <img align="center" alt="Rafa-typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Rafa-jest" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg">
 <img align="center" alt="Rafa-cypressio" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cypressio/cypressio-original.svg">
-</p>
-<p align="left">
 <img align="center" alt="Rafa-webstorm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webstorm/webstorm-original.svg">
 <img align="center" alt="Rafa-spring" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg">
 <img align="center" alt="Rafa-swagger" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg">
