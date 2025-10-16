@@ -1,21 +1,11 @@
 <hr />
-<!-- TODO: Use stylesheet at some point -->
-<!--<style>
-    hr {
-        width: 720pt;
-    }
-</style> -->
-<!-- TODO: Use stylesheet at some point -->
-
-<!-- TODO: Use headshot at some point -->
-<!-- <img align="middle" height="100" width="100" src="https://raw.githubusercontent.com/badj/online-resume/refs/heads/main/images/header_image.png">-->
-<!-- TODO: Use headshot at some point -->
 
 # Jacob Badenhorst • Quality Engineer • APAC / NZ / AU
 
 ## About Me
 
-Experienced Quality Engineer, leading quality assurance for technology projects across diverse industries and global technology sectors.
+Quality Engineer, leading quality assurance for technology projects across diverse industries and global technology sectors.
+I'm interested and focused on open-source test automation frameworks, containerised, deployed and run with cloud CI/DC.
 <br />
 #### View my online resume: [badj.github.io/online-resume](https://badj.github.io/online-resume/)
 <hr />
@@ -30,7 +20,7 @@ Experienced Quality Engineer, leading quality assurance for technology projects 
 <hr />
 
 <p align="left">
-<img align="center" alt="Rafa-github" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg">
+<img align="center" alt="Rafa-github-original-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original-wordmark.svg">
 <img align="center" alt="Rafa-githubactions" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-plain-wordmark.svg">
 <img align="center" alt="Rafa-markdown" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/markdown/markdown-original.svg">
 <img align="center" alt="Rafa-ubuntu" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original-wordmark.svg">
