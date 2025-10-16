@@ -19,7 +19,7 @@ As a Quality Engineer, I lead quality assurance initiatives for technology proje
 <hr />
 
 <p align="left">
-<img align="center" alt="Rafa-github-original-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original-wordmark.svg">
+<img align="center" alt="Rafa-github-original-wordmark" height="50" width="60" src="https://icons.getbootstrap.com/assets/icons/github.svg">
 <img align="center" alt="Rafa-githubactions" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-plain-wordmark.svg">
 <img align="center" alt="Rafa-markdown" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/markdown/markdown-original.svg">
 <img align="center" alt="Rafa-ubuntu" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original-wordmark.svg">
