@@ -4,7 +4,7 @@
 
 ## About Me
 
-As a quality Engineer, I lead quality assurance initiatives for technology projects spanning various industries and global technology sectors. My focus and interest lie in open-source test automation frameworks, particularly those that are containerised, deployed, and operated within cloud CI/CD environments.
+As a Quality Engineer, I lead quality assurance initiatives for technology projects spanning various industries and global technology sectors. My focus and interest lie in open-source test automation frameworks, particularly those that are containerised, deployed, and operated within cloud CI/CD environments.
 <br />
 #### View my online resume: [badj.github.io/online-resume](https://badj.github.io/online-resume/)
 <hr />
