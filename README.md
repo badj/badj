@@ -11,7 +11,7 @@ As a Quality Engineer, I lead quality assurance initiatives for technology proje
 
 ## Experience: Test Frameworks/Stacks • Development Stacks
 
-* **Frameworks, Libraries:** Playwright, Cypress, Selenium, Webdriver, JMeter, Spock, Geb, Jest, Selendroid, Appium, Espresso, JUnit, NUnit, Capybara, Spring Boot.
+* **Frameworks and Libraries:** Playwright, Cypress, Selenium, Webdriver, JMeter, Spock, Geb, Jest, Selendroid, Appium, Espresso, JUnit, NUnit, Capybara, Spring Boot.
 * **API testing, automation, and stubbing:** SOAP UI, Postman, Newman, Wiremock, REST Assured.
 * **Build, Continuous Integration and Continuous Delivery (CI/CD):** GitHub Actions/Workflows, Gradle, Maven, Ant, Jenkins, GitLab CI, Bamboo.
 * **BDD, SBE, and TDD:** Cucumber, Concordion, RSpec
