@@ -22,7 +22,7 @@ As a Quality Engineer, I lead quality assurance initiatives for technology proje
 
 <p align="left">
 <img align="center" alt="Rafa-webstorm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webstorm/webstorm-original.svg">
-<img align="center" alt="Rafa-express-logo-dark" height="50" width="60" src="https://raw.githubusercontent.com/expressjs/expressjs.com/refs/heads/gh-pages/images/brand/logo-dark.svg">
+<img align="center" alt="Rafa-express-original-wordmark" height="50" width="60" src="http://25ontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg">
 <img align="center" alt="Rafa-markdown" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/markdown/markdown-original.svg">
 <img align="center" alt="Rafa-swagger" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg">
 <img align="center" alt="Rafa-plotly" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/plotly/plotly-original-wordmark.svg">
