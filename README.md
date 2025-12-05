@@ -56,7 +56,3 @@ As a Quality Engineer, I lead quality assurance initiatives for technology proje
 </p>
 
 <hr />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badj&layout=compact&langs_count=6&theme=transparent)
-
-<hr />
