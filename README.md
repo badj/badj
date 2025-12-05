@@ -11,7 +11,7 @@ As a Quality Engineer, I lead quality assurance initiatives for technology proje
 
 ## Experience: Test Frameworks/Stacks • Development Stacks
 
-* **Frameworks and Libraries:** Playwright, Cypress, Selenium, Webdriver, JMeter, Spock, Geb, Jest, Selendroid, Appium, Espresso, JUnit, NUnit, Capybara, Spring Boot.
+* **Frameworks and Libraries:** Playwright, Cypress, Selenium, Webdriver, JMeter, Spock, Geb, Jest, Selendroid, Appium, Espresso, JUnit, NUnit, Capybara, Spring Boot, UiAutomator, XCUITest.
 * **API testing, automation, and stubbing:** SOAP UI, Postman, Newman, Wiremock, REST Assured.
 * **Build, Continuous Integration and Continuous Delivery (CI/CD):** GitHub Actions/Workflows, Gradle, Maven, Ant, Jenkins, GitLab CI, Bamboo.
 * **BDD, SBE, and TDD:** Cucumber, Concordion, RSpec
@@ -48,6 +48,11 @@ As a Quality Engineer, I lead quality assurance initiatives for technology proje
 <img align="center" alt="Rafa-firefox-plain-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firefox/firefox-plain-wordmark.svg">
 <img align="center" alt="Rafa-safari-plain-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/safari/safari-plain-wordmark.svg">
 <img align="center" alt="Rafa-electron-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original.svg">
+<img align="center" alt="Appium-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/Appium.svg">
+<img align="center" alt="Xcuitest-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/Xcuitest.svg">
+<img align="center" alt="WebdriverIO-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/WebdriverIO.svg">
+<img align="center" alt="claude-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2025/08/claude_desktop.svg">
+<img align="center" alt="github_copilot-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2025/08/github_copilot.svg">
 </p>
 
 <hr />
