@@ -4,7 +4,15 @@
 
 ## About Me
 
-As a Quality Engineer, I lead quality assurance initiatives for technology projects spanning various industries and global technology sectors. My focus and interest lie in open-source test automation frameworks, particularly those that are containerised, deployed, and operated within cloud CI/CD environments.
+I'm a Quality/Test Engineer who leads end‑to‑end quality strategy across enterprise platforms and emerging technologies in global markets. I'm passionate about building next‑generation test automation ecosystems that enable teams to ship faster, safer, and with greater confidence.
+
+Core focus areas include AI-augmented and LLM-driven automation, cloud-native and containerised test frameworks, and production-grade, GitOps-driven CI/CD test automation. I work hands‑on with Model Context Protocol (MCP) agents and advanced LLM orchestration to:
+
+* Automatically scaffold intelligent test architectures and high‑quality automation code at scale.
+* Package automation as observable, resilient, cloud‑native services.
+* Run end‑to‑end automation as an integral part of modern delivery pipelines.
+
+I’m motivated by solving complex quality challenges, raising engineering standards, and helping teams evolve their quality practices in step with rapidly changing application and platform landscapes.
 <br />
 #### [View my online resume](https://badj.github.io/online-resume/)
 <hr />
