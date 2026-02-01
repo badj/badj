@@ -13,12 +13,13 @@ I actively explore the integration of AI technologies and Model Context Protocol
 #### [View my online resume](https://badj.github.io/online-resume/)
 <hr />
 
-## Experience: Test Frameworks/Stacks • Development Stacks
+## Experience: Test Frameworks/Stacks • Development Stacks • AI models • MCP
 
 * **Frameworks and Libraries:** Playwright, Cypress, Selenium, Webdriver, JMeter, Spock, Geb, Jest, Selendroid, Appium, Espresso, JUnit, NUnit, Capybara, Spring Boot, UiAutomator, XCUITest.
 * **API testing, automation, and stubbing:** SOAP UI, Postman, Newman, Wiremock, REST Assured.
 * **Build, Continuous Integration and Continuous Delivery (CI/CD):** GitHub Actions/Workflows, Gradle, Maven, Ant, Jenkins, GitLab CI, Bamboo.
 * **BDD, SBE, and TDD:** Cucumber, Concordion, RSpec
+* **AI models and Model Context Protocol (MCP):** Claude Sonnet, Chat GPT, GitHub Copilot, Playwright MCP, GitHub MCP Server.
 
 <hr />
 
