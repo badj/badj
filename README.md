@@ -4,7 +4,11 @@
 
 ## About Me
 
-As a Quality Engineer, I lead quality assurance initiatives for technology projects spanning various industries and global technology sectors. My professional experience and interests are focused on open-source test automation frameworks, with a particular emphasis on containerised solutions deployed and orchestrated within cloud-based CI/CD pipelines. I actively explore the integration of AI technologies and Model Context Protocol (MCP) standards to enhance test automation for productivity, scalability, and maintainability.
+As a Quality Engineer, I lead quality assurance initiatives for technology projects spanning various industries and global technology sectors.
+
+My professional experience and interests are focused on open-source test automation frameworks, with a particular emphasis on containerised solutions deployed and orchestrated within cloud-based CI/CD pipelines. 
+
+I actively explore the integration of AI technologies and Model Context Protocol (MCP) standards to enhance test automation for productivity, scalability, and maintainability.
 <br />
 #### [View my online resume](https://badj.github.io/online-resume/)
 <hr />
