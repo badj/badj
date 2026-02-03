@@ -70,6 +70,7 @@ I actively explore the integration of AI technologies and Model Context Protocol
 <img align="center" alt="WebdriverIO-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/WebdriverIO.svg">
 <img align="center" alt="claude-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2025/08/claude_desktop.svg">
 <img align="center" alt="github_copilot-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2025/08/github_copilot.svg">
+<img align="center" alt="Model_Context_Protocol_logo" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Model_Context_Protocol_logo.svg/500px-Model_Context_Protocol_logo.svg.png">  
 </p>
 
 <hr />
