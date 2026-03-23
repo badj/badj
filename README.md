@@ -73,6 +73,10 @@ I actively explore the integration of AI technologies and Model Context Protocol
 <img align="center" alt="github_copilot-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2025/08/github_copilot.svg">
 <img align="center" alt="Model_Context_Protocol_logo" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Model_Context_Protocol_logo.svg/500px-Model_Context_Protocol_logo.svg.png">  
 <img align="center" alt="Apache_JMeter-logo" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/en/e/e6/Apache_JMeter_Logo.svg">
+<img align="center" alt="Ruby_logo" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg">
+<img align="center" alt="Java_logo" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+<img align="center" alt="Groovy-logo" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg">
+<img align="center" alt="Bash-logo" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg">
 </p>
 
 <hr />
