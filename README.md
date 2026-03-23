@@ -77,6 +77,7 @@ I actively explore the integration of AI technologies and Model Context Protocol
 <img align="center" alt="Java_logo" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
 <img align="center" alt="Groovy-logo" height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg">
 <img align="center" alt="Bash-logo" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg">
+<img align="center" alt="Bats-core-logo" height="50" width="50" src="https://raw.githubusercontent.com/bats-core/bats-core/master/docs/source/assets/light_mode_cube.svg">
 </p>
 
 <hr />
