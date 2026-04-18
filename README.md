@@ -38,7 +38,7 @@ I actively explore the integration of AI technologies and Model Context Protocol
 <hr />
 
 ## Repo projects • Development and Test Stacks/Frameworks implemented
-<!-- skills.syvixor test -->
+<!-- skills.syvixor with p - test -->
 </br>
 
 [![Skills](https://skills.syvixor.com/api/icons?i=bash,ruby,java,groovy,js,ts,html5,node,npm,expressjs,react)](https://github.com/syvixor/skills-icons)
@@ -51,5 +51,7 @@ I actively explore the integration of AI technologies and Model Context Protocol
 </br>
 [![Skills](https://skills.syvixor.com/api/icons?i=grok,perplexity,gemini,copilot,plotly,splunk,webstorm,rubymine,intellij,electron)](https://github.com/syvixor/skills-icons)
 </br>
+<p>
 <img alt="bats-core" height="45" width="45" src="https://raw.githubusercontent.com/bats-core/bats-core/master/docs/source/assets/light_mode_cube.svg">&nbsp;&nbsp;&nbsp;<img alt="webdriver" height="45" width="45" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/WebdriverIO.svg">&nbsp;&nbsp;&nbsp;<img alt="mocha" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mocha/mocha-original.svg">&nbsp;&nbsp;<img alt="rails" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rails/rails-original-wordmark.svg">&nbsp;&nbsp;&nbsp;<img alt="Xcuites" height="45" width="45" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/Xcuitest.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="r-spec" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rspec/rspec-plain-wordmark.svg">
+</p>
 </br>
