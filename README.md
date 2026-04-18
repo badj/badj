@@ -37,8 +37,7 @@ I actively explore the integration of AI technologies and Model Context Protocol
 | [**Online Resume**](https://github.com/badj/online-resume)                                                              | Personal Online resume hosted with [GitHub Pages](https://docs.github.com/en/pages). <br/> <br/> [![pages-build-deployment](https://github.com/badj/online-resume/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/badj/Online-Resume/actions/workflows/pages/pages-build-deployment)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 <hr />
 
-## Repo projects • Development and Test Stacks/Frameworks implemented
-<!-- skills.syvixor with p - test -->
+## Development • Frameworks • Test stacks
 </br>
 
 [![Skills](https://skills.syvixor.com/api/icons?i=bash,ruby,java,groovy,js,ts,html5,node,npm,expressjs,react)](https://github.com/syvixor/skills-icons)
@@ -50,8 +49,4 @@ I actively explore the integration of AI technologies and Model Context Protocol
 [![Skills](https://skills.syvixor.com/api/icons?i=,git,github,githubactions,docker,linux,ubuntu,claudeai,chatgpt,githubcopilot,mcp)](https://github.com/syvixor/skills-icons)
 </br>
 [![Skills](https://skills.syvixor.com/api/icons?i=grok,perplexity,gemini,copilot,plotly,splunk,webstorm,rubymine,intellij,electron)](https://github.com/syvixor/skills-icons)
-</br>
-<p>
-<img alt="bats-core" height="45" width="45" src="https://raw.githubusercontent.com/bats-core/bats-core/master/docs/source/assets/light_mode_cube.svg">&nbsp;&nbsp;&nbsp;<img alt="webdriver" height="45" width="45" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/WebdriverIO.svg">&nbsp;&nbsp;&nbsp;<img alt="mocha" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mocha/mocha-original.svg">&nbsp;&nbsp;<img alt="rails" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rails/rails-original-wordmark.svg">&nbsp;&nbsp;&nbsp;<img alt="Xcuites" height="45" width="45" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/Xcuitest.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="r-spec" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rspec/rspec-plain-wordmark.svg">
-</p>
 </br>
