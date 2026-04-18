@@ -312,3 +312,76 @@ I actively explore the integration of AI technologies and Model Context Protocol
 <br/>
 <hr />
 <br/>
+
+<!-- new svg test 1 -->
+
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .icon { width: 80px; height: 80px; }
+  </style>
+
+  <!-- Row 1 -->
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rubymine/rubymine-original.svg" x="20" y="20" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" x="120" y="20" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webstorm/webstorm-original.svg" x="220" y="20" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg" x="320" y="20" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/markdown/markdown-original.svg" x="420" y="20" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg" x="520" y="20" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/plotly/plotly-original-wordmark.svg" x="620" y="20" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" x="720" y="20" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original-wordmark.svg" x="820" y="20" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-line-wordmark.svg" x="920" y="20" width="80" height="80"/>
+
+  <!-- Row 2 -->
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg" x="20" y="120" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-plain-wordmark.svg" x="120" y="120" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" x="220" y="120" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yaml/yaml-original.svg" x="320" y="120" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/json/json-original.svg" x="420" y="120" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-plain-wordmark.svg" x="520" y="120" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg" x="620" y="120" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/groovy/groovy-original.svg" x="720" y="120" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" x="820" y="120" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" x="920" y="120" width="80" height="80"/>
+
+  <!-- Row 3 -->
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original-wordmark.svg" x="20" y="220" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg" x="120" y="220" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rails/rails-original-wordmark.svg" x="220" y="220" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg" x="320" y="220" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rspec/rspec-plain-wordmark.svg" x="420" y="220" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg" x="520" y="220" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-original-wordmark.svg" x="620" y="220" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mocha/mocha-original.svg" x="720" y="220" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cypressio/cypressio-original.svg" x="820" y="220" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/playwright/playwright-original.svg" x="920" y="220" width="80" height="80"/>
+
+  <!-- Row 4 -->
+  <image href="https://raw.githubusercontent.com/bats-core/bats-core/master/docs/source/assets/light_mode_cube.svg" x="20" y="320" width="80" height="80"/>
+  <image href="https://upload.wikimedia.org/wikipedia/en/e/e6/Apache_JMeter_Logo.svg" x="120" y="320" width="100" height="80"/>
+  <image href="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/Appium.svg" x="240" y="320" width="80" height="80"/>
+  <image href="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/Xcuitest.svg" x="340" y="320" width="80" height="80"/>
+  <image href="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/WebdriverIO.svg" x="440" y="320" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cucumber/cucumber-plain-wordmark.svg" x="540" y="320" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg" x="640" y="320" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original-wordmark.svg" x="740" y="320" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-plain-wordmark.svg" x="840" y="320" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" x="940" y="320" width="80" height="80"/>
+
+  <!-- Row 5 -->
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original-wordmark.svg" x="20" y="420" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg" x="120" y="420" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/chrome/chrome-plain-wordmark.svg" x="220" y="420" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firefox/firefox-plain-wordmark.svg" x="320" y="420" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/safari/safari-plain-wordmark.svg" x="420" y="420" width="80" height="80"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original.svg" x="520" y="420" width="80" height="80"/>
+  <image href="https://browserstack.wpenginepowered.com/wp-content/uploads/2025/08/claude_desktop.svg" x="620" y="420" width="80" height="80"/>
+  <image href="https://browserstack.wpenginepowered.com/wp-content/uploads/2025/08/github_copilot.svg" x="720" y="420" width="80" height="80"/>
+  <image href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Model_Context_Protocol_logo.svg/500px-Model_Context_Protocol_logo.svg.png" x="820" y="420" width="80" height="80"/>
+
+</svg>
+
+<br/>
+<hr />
+<br/>
