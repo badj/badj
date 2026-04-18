@@ -178,7 +178,8 @@ I actively explore the integration of AI technologies and Model Context Protocol
 <hr />
 <!-- p align="center" test -->
 <br/>
-<p align="center">
+<p>
+<!-- <p align="center"> BORKED-->
 <img align="center" alt="rubymine-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rubymine/rubymine-original.svg">
 <img align="center" alt="intellij" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg">
 <img align="center" alt="Rafa-webstorm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webstorm/webstorm-original.svg">
