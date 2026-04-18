@@ -38,71 +38,18 @@ I actively explore the integration of AI technologies and Model Context Protocol
 <hr />
 
 ## Repo projects • Development and Test Stacks/Frameworks implemented
+<!-- skills.syvixor test -->
+</br>
+
+[![Skills](https://skills.syvixor.com/api/icons?i=bash,ruby,java,groovy,js,ts,html5,node,npm,expressjs,react)](https://github.com/syvixor/skills-icons)
 <br/>
-<!-- border:none test -->
-<table>
-<tr style="border:transparent;"> 
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="rubymine-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rubymine/rubymine-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="intellij" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-webstorm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webstorm/webstorm-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-express-original-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-markdown" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/markdown/markdown-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-swagger" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-plotly" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/plotly/plotly-original-wordmark.svg"></td>
-</tr>
-<tr style="border:transparent;"> 
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-npm" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-nodejs" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-line-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-react" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="jquery-plain-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-plain-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-yaml" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yaml/yaml-original.svg"></td>
-</tr>    
-<tr style="border:transparent;"> 
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-json-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/json/json-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Ruby_logo" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-plain-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Java_logo" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Groovy-logo" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/groovy/groovy-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Bash-logo" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-maven-original-wordmark" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original-wordmark.svg"></td>
-</tr>
-<tr style="border:transparent;"> 
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="rails-original-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rails/rails-original-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="spring-original-wordmark" height="60" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="rspec-plain-wordmark" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rspec/rspec-plain-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-jest" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-junit" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-original-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-mocha-original" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mocha/mocha-original.svg"></td>
-</tr>
-<tr style="border:transparent;"> 
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-cypressio" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cypressio/cypressio-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-playwright" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/playwright/playwright-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Bats-core-logo" height="50" width="50" src="https://raw.githubusercontent.com/bats-core/bats-core/master/docs/source/assets/light_mode_cube.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Apache_JMeter-logo" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/en/e/e6/Apache_JMeter_Logo.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Appium-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/Appium.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Xcuitest-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/Xcuitest.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="WebdriverIO-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/WebdriverIO.svg"></td>
-</tr>
-<tr style="border:transparent;"> 
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-cucumber" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cucumber/cucumber-plain-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-postman-original" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-github-original-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-githubactions" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-plain-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-linux-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-ubuntu" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg"></td>
-</tr>
-<tr style="border:transparent;"> 
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-chrome-plain-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/chrome/chrome-plain-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-firefox-plain-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firefox/firefox-plain-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-safari-plain-wordmark" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/safari/safari-plain-wordmark.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Rafa-electron-original" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="claude-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2025/08/claude_desktop.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="github_copilot-logo" height="50" width="60" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2025/08/github_copilot.svg"></td>
-    <td style="text-align:center; vertical-align:middle; border:none;"><img alt="Model_Context_Protocol_logo" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Model_Context_Protocol_logo.svg"></td>
-</tr>
-</table>
-<br/>
+[![Skills](https://skills.syvixor.com/api/icons?i=jquery,css,yaml,json,rest,springboot,maven,gradle,spring,html)](https://github.com/syvixor/skills-icons)
+</br>
+[![Skills](https://skills.syvixor.com/api/icons?i=markdown,jest,junit5,cypress,playwright,jmeter,appium,cucumber,postman,swagger)](https://github.com/syvixor/skills-icons)
+</br>
+[![Skills](https://skills.syvixor.com/api/icons?i=,git,github,githubactions,docker,linux,ubuntu,claudeai,chatgpt,githubcopilot,mcp)](https://github.com/syvixor/skills-icons)
+</br>
+[![Skills](https://skills.syvixor.com/api/icons?i=grok,perplexity,gemini,copilot,plotly,splunk,webstorm,rubymine,intellij,electron)](https://github.com/syvixor/skills-icons)
+</br>
+<img alt="bats-core" height="45" width="45" src="https://raw.githubusercontent.com/bats-core/bats-core/master/docs/source/assets/light_mode_cube.svg">&nbsp;&nbsp;&nbsp;<img alt="webdriver" height="45" width="45" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/WebdriverIO.svg">&nbsp;&nbsp;&nbsp;<img alt="mocha" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mocha/mocha-original.svg">&nbsp;&nbsp;<img alt="rails" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rails/rails-original-wordmark.svg">&nbsp;&nbsp;&nbsp;<img alt="Xcuites" height="45" width="45" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2024/07/Xcuitest.svg">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="r-spec" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rspec/rspec-plain-wordmark.svg">
+</br>
