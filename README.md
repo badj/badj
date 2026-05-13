@@ -42,13 +42,13 @@ I actively explore the integration of AI technologies and Model Context Protocol
 ## Development • Frameworks • Test stacks
 </br>
 
-[![Skills](https://skills.syvixor.com/api/icons?i=bash,ruby,java,groovy,js,ts,html5,node,npm,expressjs,react)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=bash,powershell,ruby,java,groovy,js,ts,html5,node,npm,expressjs,react)](https://github.com/syvixor/skills-icons)
 <br/>
-[![Skills](https://skills.syvixor.com/api/icons?i=jquery,css,yaml,json,rest,springboot,maven,gradle,spring,html)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=jquery,css,yaml,json,rest,springboot,maven,gradle,spring,html,markdown)](https://github.com/syvixor/skills-icons)
 </br>
-[![Skills](https://skills.syvixor.com/api/icons?i=markdown,jest,junit5,cypress,playwright,jmeter,appium,cucumber,postman,swagger)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=jest,junit5,cypress,playwright,jmeter,appium,cucumber,postman,swagger,splunk,plotly)](https://github.com/syvixor/skills-icons)
 </br>
-[![Skills](https://skills.syvixor.com/api/icons?i=,git,github,githubactions,docker,linux,ubuntu,claudeai,chatgpt,githubcopilot,mcp)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=git,github,githubactions,docker,linux,ubuntu,claudeai,chatgpt,githubcopilot,mcp,grok)](https://github.com/syvixor/skills-icons)
 </br>
-[![Skills](https://skills.syvixor.com/api/icons?i=grok,perplexity,gemini,copilot,plotly,splunk,webstorm,rubymine,intellij,electron)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=,perplexity,gemini,copilot,launchdarkly,newrelic,webstorm,rubymine,intellij,electron,chrome,firefox)](https://github.com/syvixor/skills-icons)
 </br>
